@@ -25,6 +25,11 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Program
 
 ```
+Name : Infant Vijay.A
+reg no: 212225240052
+slot:T1-I5
+
+
 # Getting Inputs
 ArrivalTime = float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ServiceTime = float(input("Enter the mean inter service time of Lathe Machine (in secs): "))
